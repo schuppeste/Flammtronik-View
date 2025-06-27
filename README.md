@@ -1,4 +1,4 @@
 # Flammtronik-View
 Großanzeige O2/Temp
-https://github.com/schuppeste/Flammtronik-View/blob/main/flammtronik.png?raw=true
-https://github.com/schuppeste/Flammtronik-View/blob/main/flammtronik.png
+
+![flammtronik](https://github.com/user-attachments/assets/98927682-c604-417f-a0f1-c00c31f65afe)
